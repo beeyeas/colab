@@ -1,26 +1,69 @@
-Name,Rate,Latitude,Longitude
-Harvard University,4.0,42.374443,-71.116943
-Columbia University,4.6,40.807536,-73.962573
-Stanford University,5.2,37.428230,-122.168861
-Yale University,5.3,41.316324,-72.922343
-Princeton University,6.0,40.343985,-74.651459
-Massachusetts Institute of Technology (MIT),7.3,42.360001,-71.092003
-University of Chicago,7.3,41.788608,-87.598713
-Brown University,7.7,41.826835,-71.402931
-Dartmouth College,7.9,43.704540,-72.288986
-Duke University,8.0,36.001459,-78.938175
-Vanderbilt University,9.1,36.144051,-86.800949
-University of Pennsylvania,9.2,39.952268,-75.193214
-Northwestern University,9.3,42.056459,-87.675267
-Johns Hopkins University,9.9,39.329903,-76.620522
-Rice University,10.1,29.717154,-95.404182
-Cornell University,10.3,42.454323,-76.475266
-Claremont McKenna College,11.0,34.101755,-117.710131
-Colgate University,12.0,42.819581,-75.535032
-Grinnell College,13.0,41.747161,-92.722747
-Colorado College,16.0,38.847544,-104.826448
-University of Notre Dame,17.7,41.699280,-86.238899
-Washington University in St. Louis,18.0,38.648987,-90.312553
-Georgetown University,19.0,38.907852,-77.072807
-Smith College,20.0,42.316826,-72.638329
-College of the Holy Cross,21.0,42.239104,-71.808281
+College,Admission Rate,Latitude,Longitude
+California Institute of Technology,3%,34.137661,-118.125447
+Harvard University,3%,42.374443,-71.116943
+Stanford University,4%,37.428230,-122.168861
+Princeton University,4%,40.343985,-74.651459
+Yale University,4.57%,41.316324,-72.922343
+Columbia University,3.74%,40.807536,-73.962573
+Massachusetts Institute of Technology,5%,42.360001,-71.092003
+University of Chicago,5.44%,41.788608,-87.598713
+Brown University,5%,41.826835,-71.402931
+Dartmouth College,6.38%,43.704540,-72.288986
+University of Pennsylvania,6.51%,39.952268,-75.193214
+Duke University,7.24%,36.001459,-78.938175
+Johns Hopkins University,7.24%,39.329903,-76.620522
+Amherst College,7%,42.370829,-72.516654
+Pomona College,7.02%,34.097469,-117.712618
+Swarthmore College,6.95%,39.906932,-75.354137
+Williams College,8.5%,42.712745,-73.203883
+Vanderbilt University,9.1%,36.144051,-86.800949
+Northwestern University,9.3%,42.056459,-87.675267
+Rice University,10.1%,29.717154,-95.404182
+Cornell University,10.3%,42.454323,-76.475266
+University of Southern California,9.9%,34.022352,-118.285117
+Tufts University,9.69%,42.407211,-71.116699
+Northeastern University,6%,42.339892,-71.088148
+Barnard College,9%,40.809021,-73.963536
+Bowdoin College,9.13%,43.907730,-69.962405
+Claremont McKenna College,11%,34.101755,-117.710131
+Carnegie Mellon University,11.3%,40.443323,-79.943583
+Boston University,11%,42.350460,-71.105311
+Colgate University,12.34%,42.819581,-75.535032
+Grinnell College,10.76%,41.747161,-92.722747
+Emory University,11.35%,33.790942,-84.326286
+New York University,12.46%,40.729452,-73.997264
+Notre Dame,12.87%,41.699280,-86.238899
+Bates College,13.7%,44.105235,-70.204752
+Wellesley College,13.24%,42.293793,-71.305395
+Middlebury College,14.06%,44.009665,-73.176889
+Haverford College,14.21%,40.011869,-75.308372
+Wesleyan University,14.44%,41.555845,-72.657307
+Boston College,16.66%,42.335344,-71.168922
+Carleton College,16.63%,44.461911,-93.155392
+Washington and Lee University,16.96%,37.790059,-79.443682
+Colorado College,16%,38.847544,-104.826448
+Pitzer College,18.4%,34.102993,-117.708278
+Olin College of Engineering,19.14%,42.292871,-71.264035
+Smith College,20%,42.316826,-72.638329
+University of Richmond,24.37%,37.574933,-77.542593
+Tulane University,31%,29.940458,-90.120804
+Trinity College,31%,41.745167,-72.691204
+University of Texas - Austin,31.41%,30.285049,-97.733924
+Bucknell University,32.56%,40.955348,-76.884559
+William & Mary,33.5%,37.271023,-76.711088
+Lehigh University,36.32%,40.606497,-75.378127
+Clemson University,38%,34.683281,-82.837364
+American University,40.63%,38.937881,-77.086716
+Auburn University,50%,32.593240,-85.495247
+Rensselaer Polytechnic Institute,64.51%,42.730172,-73.678803
+Boise State University,84%,43.603739,-116.204975
+Arizona State University,90%,33.420161,-111.932874
+Colorado State University,90%,40.573448,-105.085060
+University of Memphis,93%,35.120461,-89.938187
+Utah State University,94%,41.745012,-111.809508
+University of New Mexico,95%,35.084385,-106.619385
+Marshall University,96%,38.423647,-82.425861
+North Dakota State University,96%,46.891459,-96.800033
+University of Maine,96%,44.899548,-68.669847
+University of Nevada Las Vegas,96%,36.108021,-115.141926
+University of Mississippi,98%,34.365577,-89.538433
